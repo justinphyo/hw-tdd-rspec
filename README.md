@@ -1,5 +1,5 @@
 # TDD with RSpec
-
+[![Build Status](https://travis-ci.org/justinphyo/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/justinphyo/hw-tdd-rspec)
 In this assignment you will use a combination of Acceptance and
 Unit/Functional 
 tests with the Cucumber and RSpec tools to add a "find movies with same
